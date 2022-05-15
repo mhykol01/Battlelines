@@ -1,0 +1,120 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e87)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.142 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Touch support initialization failed: Call not implemented.
+.
+Platform assembly: L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: L:\drive\New folder (2)\BattleLines\BattleLines_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.705100 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 955.
+Total: 0.347400 ms (FindLiveObjects: 0.029300 ms CreateObjectMapping: 0.021400 ms MarkObjects: 0.292000 ms  DeleteObjects: 0.004100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.589600 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3000.
+Total: 0.475800 ms (FindLiveObjects: 0.090000 ms CreateObjectMapping: 0.049700 ms MarkObjects: 0.299700 ms  DeleteObjects: 0.035700 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1ec -> priority: 1 
+  Thread -> id: 1f0 -> priority: 1 
+  Thread -> id: 1f4 -> priority: 1 
+  Thread -> id: 1f8 -> priority: 1 
+Crash!!!
+SymInit: Symbol-SearchPath: '.;L:\drive\New folder (2)\BattleLines;L:\drive\New folder (2)\BattleLines;C:\windows;C:\windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'mhykol'
+OS-Version: 6.2.9200 () 0x0-0x1
+L:\drive\New folder (2)\BattleLines\BattleLines.exe:BattleLines.exe (00400000), size: 16437248 (result: 0), SymType: '-exported-', PDB: 'L:\drive\New folder (2)\BattleLines\BattleLines.exe', fileVersion: 5.0.1.11919
+C:\windows\system32\ntdll.dll:ntdll.dll (7BC00000), size: 700416 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\ntdll.dll', fileVersion: 6.1.7601.24059
+C:\windows\system32\kernel32.dll:kernel32.dll (7B600000), size: 2220032 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\kernel32.dll', fileVersion: 10.0.19043.1466
+C:\windows\system32\kernelbase.dll:kernelbase.dll (7B000000), size: 966656 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\kernelbase.dll'
+C:\windows\system32\HID.DLL:HID.DLL (666C0000), size: 61440 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\HID.DLL', fileVersion: 10.0.0.0
+C:\windows\system32\ucrtbase.dll:ucrtbase.dll (70B40000), size: 884736 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\ucrtbase.dll', fileVersion: 10.0.14393.2247
+C:\windows\system32\WS2_32.dll:WS2_32.dll (6D780000), size: 163840 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\WS2_32.dll', fileVersion: 5.1.2600.5512
+C:\windows\system32\USER32.dll:USER32.dll (6ED00000), size: 2359296 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\USER32.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\advapi32.dll:advapi32.dll (61740000), size: 274432 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\advapi32.dll', fileVersion: 10.0.10240.16384
+C:\windows\system32\msvcrt.dll:msvcrt.dll (6A280000), size: 704512 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\msvcrt.dll', fileVersion: 7.0.2600.2180
+C:\windows\system32\sechost.dll:sechost.dll (6BC00000), size: 180224 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\sechost.dll'
+C:\windows\system32\gdi32.dll:gdi32.dll (6C9C0000), size: 548864 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\gdi32.dll', fileVersion: 10.0.0.0
+C:\windows\system32\win32u.dll:win32u.dll (66B00000), size: 253952 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\win32u.dll'
+C:\windows\system32\setupapi.dll:setupapi.dll (6BCC0000), size: 528384 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\setupapi.dll'
+C:\windows\system32\rpcrt4.dll:rpcrt4.dll (62FC0000), size: 577536 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\rpcrt4.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\version.dll:version.dll (63480000), size: 49152 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\version.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\ole32.dll:ole32.dll (6A400000), size: 1261568 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\ole32.dll', fileVersion: 10.0.0.0
+C:\windows\system32\combase.dll:combase.dll (68500000), size: 372736 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\combase.dll'
+C:\windows\system32\SHLWAPI.dll:SHLWAPI.dll (64A40000), size: 344064 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\SHLWAPI.dll', fileVersion: 6.0.2800.1692
+C:\windows\system32\shcore.dll:shcore.dll (63BC0000), size: 106496 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\shcore.dll'
+C:\windows\system32\SHELL32.dll:SHELL32.dll (01AE0000), size: 9826304 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\SHELL32.dll', fileVersion: 6.0.2900.6242
+C:\windows\system32\aclui.dll:aclui.dll (68E00000), size: 69632 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\aclui.dll'
+C:\windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef\comctl32.dll:comctl32.dll (6CC40000), size: 1425408 (result: 0), SymType: 'DIA', PDB: 'C:\windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef\comctl32.dll', fileVersion: 6.0.4704.1100
+C:\windows\system32\imm32.dll:imm32.dll (71200000), size: 114688 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\imm32.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\OPENGL32.dll:OPENGL32.dll (7A840000), size: 1073152 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\OPENGL32.dll', fileVersion: 5.1.2600.2082
+C:\windows\system32\WINMM.dll:WINMM.dll (02440000), size: 815104 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\WINMM.dll'
+C:\windows\system32\msacm32.dll:msacm32.dll (6A040000), size: 139264 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\msacm32.dll'
+C:\windows\system32\OLEAUT32.dll:OLEAUT32.dll (64EC0000), size: 1236992 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\OLEAUT32.dll', fileVersion: 6.0.6001.18000
+C:\windows\system32\DNSAPI.dll:DNSAPI.dll (6E4C0000), size: 90112 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\DNSAPI.dll', fileVersion: 5.2.3790.4318
+C:\windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (61500000), size: 192512 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\IPHLPAPI.DLL', fileVersion: 5.1.2600.2180
+C:\windows\system32\nsi.dll:nsi.dll (6F480000), size: 45056 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\nsi.dll'
+C:\windows\system32\WINHTTP.dll:WINHTTP.dll (69600000), size: 294912 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\WINHTTP.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\jsproxy.dll:jsproxy.dll (68080000), size: 131072 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\jsproxy.dll'
+C:\windows\system32\winex11.drv:winex11.drv (7E110000), size: 610304 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\winex11.drv', fileVersion: 10.0.0.0
+C:\windows\system32\uxtheme.dll:uxtheme.dll (68700000), size: 196608 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\uxtheme.dll', fileVersion: 10.0.0.0
+L:\drive\New folder (2)\BattleLines\BattleLines_Data\Mono\mono.dll:mono.dll (10000000), size: 2289664 (result: 0), SymType: '-exported-', PDB: 'L:\drive\New folder (2)\BattleLines\BattleLines_Data\Mono\mono.dll'
+C:\windows\system32\PSAPI.DLL:PSAPI.DLL (67840000), size: 40960 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\PSAPI.DLL', fileVersion: 5.1.2600.3264
+C:\windows\system32\MSWSOCK.dll:MSWSOCK.dll (03E40000), size: 49152 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\MSWSOCK.dll', fileVersion: 4.0.0.0
+C:\windows\system32\d3d11.dll:d3d11.dll (6A540000), size: 3448832 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\d3d11.dll', fileVersion: 10.0.17763.1
+C:\windows\system32\vulkan-1.dll:vulkan-1.dll (69AC0000), size: 53248 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\vulkan-1.dll', fileVersion: 1.0.0.0
+C:\windows\system32\winevulkan.dll:winevulkan.dll (682C0000), size: 176128 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\winevulkan.dll', fileVersion: 10.0.0.0
+C:\windows\system32\dxgi.dll:dxgi.dll (06A60000), size: 2277376 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dxgi.dll', fileVersion: 10.0.17763.1
+C:\windows\system32\mmdevapi.dll:mmdevapi.dll (67D40000), size: 180224 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\mmdevapi.dll'
+C:\windows\system32\winepulse.drv:winepulse.drv (13210000), size: 471040 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\winepulse.drv'
+C:\windows\system32\dsound.dll:dsound.dll (0FF90000), size: 409600 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\dsound.dll', fileVersion: 5.3.1.904
+C:\windows\system32\xinput1_3.dll:xinput1_3.dll (651C0000), size: 73728 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\xinput1_3.dll', fileVersion: 9.15.779.0
+C:\windows\system32\msimg32.dll:msimg32.dll (70E80000), size: 40960 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\msimg32.dll'
+C:\windows\system32\dbghelp.dll:dbghelp.dll (6FA80000), size: 499712 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+
+========== OUTPUTING STACK TRACE ==================
+
+7BC58460 (ntdll) DbgBreakPoint
+1010C87B (mono) mono_type_get_modifiers
+1010C8B5 (mono) mono_type_get_modifiers
+10109E29 (mono) mono_type_get_modifiers
+1010A674 (mono) mono_type_get_modifiers
+1010A710 (mono) mono_type_get_modifiers
+1010A744 (mono) mono_type_get_modifiers
+100EE1C4 (mono) mono_jit_thread_attach
+0054A03C (battlelines) MonoManager::AwakeFromLoad
+0065DB38 (battlelines) PlayerMainWndProc
+0065F800 (battlelines) PlayerWinMain
+00994E98 (battlelines) ReportScriptingObjectsTransfer::TransferTypeless
+009CBECF (battlelines) ReportScriptingObjectsTransfer::TransferTypeless
+7B62DDD0 (kernel32) BaseThreadInitThunk
+7BC5DD07 (ntdll) RtlUserThreadStart
+7BC5E3C0 (ntdll) RtlCreateUserThread
+
+========== END OF STACKTRACE ===========
+
